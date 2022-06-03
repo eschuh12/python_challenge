@@ -15,6 +15,7 @@ Setup your python enviornment and clone the git repo
 Navigate your command line to the location of PIP, and type the following:
 
 pip install requests 
+
 pip install requests-cache
 
 Finally run main.py and follow the printed statements
